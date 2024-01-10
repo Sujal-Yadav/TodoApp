@@ -1,3 +1,5 @@
 ## Todo App by Harkirat Singh
 
-*Todo Creation*
+- *Todo Creation*
+- *Todos Fetching*
+- *Todos Updation*
